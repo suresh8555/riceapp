@@ -20,7 +20,7 @@ const getSatisfactionColor = (value) => {
   return "red";
 };
 
-export default function OrdersTabe() {
+export default function OrdersTable() {
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 5;
   const totalPages = Math.ceil(sellersData.length / itemsPerPage);

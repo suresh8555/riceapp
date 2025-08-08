@@ -10,7 +10,7 @@ import Footer from './components/common/Footer'
 // import StatsCard from './components/admin/cards/StatsCard'
 
 // import Graphbar from './components/admin/cards/graphbar'
-// import OrderTable from './components/admin/tables/OrdersTabe'
+// import OrdersTable from './components/admin/tables/OrdersTable'
 
 
 const App = () => {
@@ -20,7 +20,7 @@ const App = () => {
 
       <Approutes/> 
 
-      {/* <Header />
+       {/* <Header />
       <div className="d-flex">
         <Sidebar />
         <main className="flex-grow-1 p-4 bg-light">
@@ -28,38 +28,18 @@ const App = () => {
           <div className="mt-4">
             <StatsCard />
             <Graphbar />
-            <OrderTable />
+            <OrdersTable />
 
             <Outlet />
           </div>
         </main>
-      </div> */}
+      </div>  */}
 
 
-      {/* <div>
-      {/* Top Navbar */}
-      {/* <Header /> */}
-
-      {/* Page Content */}
-      {/* <div className="container-fluid">
-        <div className="row flex-nowrap"> */}
-          {/* Sidebar */}
-          {/* <div className="col-auto p-0 d-none d-lg-block">
-            <Sidebar />
-          </div> */}
-
-          {/* Main Content */}
-          {/* <main className="col px-3 py-4">
-            <StatsCard />
-            <Graphbar />
-            <OrderTable/>
-          </main>
-        </div> */}
-      {/* </div> */}
-    {/* </div> */} 
+     
       
   
-    {/* <Footer/>  */}
+    <Footer/> 
 
 
 
