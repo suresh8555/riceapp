@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "123",
+      "name": "raju",
+      "email": "raju@gmail.com",
+      "password": "123",
+      "role": "public",
+      "isActive": "true"
+    },
+    {
+      "id": "124",
+      "name": "ramu",
+      "email": "ramu@gmail.com",
+      "password": "123",
+      "role": "public",
+      "isActive": "true"
+    },
+    {
+      "id": "dd45",
+      "email": "kethavathsuresh054@gmail.com",
+      "password": "Suresh@1234",
+      "fullname": "suresh",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "cc42",
+      "email": "dr@gmail.com",
+      "password": "1234",
+      "fullname": "dr",
+      "role": "public",
+      "isActive": true
+    },
+    {
+      "id": "388e",
+      "email": "fr@gmail.com",
+      "password": "fr123",
+      "fullname": "dr",
+      "role": "admin",
+      "isActive": true
+    }
+  ]
+}
